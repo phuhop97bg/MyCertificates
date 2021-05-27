@@ -1,0 +1,15 @@
+Data Science Methodology 	-- https://coursera.org/share/54fc31ce1d0ef5966f427d00280382f7
+Python for Data Sciece and AI	-- https://coursera.org/share/e6e480bd620f7ac4afac2f2aece3649c
+Version Control with Git 	-- https://coursera.org/share/aff7469d0de3450fe68fa60cbb6e9b07
+Tools for Data Science	 	-- https://coursera.org/share/992078d1d8214fd58728bb89a7cec8df
+What is Data Science ?	 	-- https://coursera.org/share/76b949786fa41edd0966150c0ab09110
+Machine Learning		-- https://www.sololearn.com/certificates/course/en/19848513/1094/landscape/png
+Python for Data Science		-- https://www.sololearn.com/certificates/course/en/19848513/1161/landscape/png
+Python Intermediate		-- https://www.sololearn.com/certificates/course/en/19848513/1158/landscape/png
+Python Core			-- https://www.sololearn.com/certificates/course/en/19848513/1073/landscape/png
+Python for Beginners		-- https://www.sololearn.com/certificates/course/en/19848513/1157/landscape/png
+Python Data Structures		-- https://www.sololearn.com/certificates/course/en/19848513/1159/landscape/png
+Data Science with Python	-- https://www.sololearn.com/certificates/course/en/19848513/1093/landscape/png
+SoloLearn SQL			-- https://www.sololearn.com/certificates/course/en/19848513/1060/landscape/png
+Python Fundamentals		-- https://codelearn.io/certification/yju3n2y3
+
