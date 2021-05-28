@@ -12,4 +12,5 @@ Python Data Structures		-- https://www.sololearn.com/certificates/course/en/1984
 Data Science with Python	-- https://www.sololearn.com/certificates/course/en/19848513/1093/landscape/png
 SoloLearn SQL			-- https://www.sololearn.com/certificates/course/en/19848513/1060/landscape/png
 Python Fundamentals		-- https://codelearn.io/certification/yju3n2y3
+Python Project for Data Science -- https://coursera.org/share/1b5dd58f2bf73186513921a37298a428
 
