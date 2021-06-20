@@ -15,3 +15,4 @@ Python Fundamentals		-- https://codelearn.io/certification/yju3n2y3
 Python Project for Data Science -- https://coursera.org/share/1b5dd58f2bf73186513921a37298a428
 Getting Started with AWS ML	-- https://coursera.org/share/27b8e1dd5514f7c54d813d03b6b5cb25
 Data Analysis with Python 	-- https://www.coursera.org/account/accomplishments/verify/FLDPD3VUQXZX
+Google Data Analysis with R	-- https://www.coursera.org/account/accomplishments/certificate/9BJTNHFDD3JV
