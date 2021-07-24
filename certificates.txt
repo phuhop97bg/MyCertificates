@@ -18,3 +18,5 @@ Data Analysis with Python 	-- https://www.coursera.org/account/accomplishments/v
 Google Data Analysis with R	-- https://www.coursera.org/account/accomplishments/certificate/9BJTNHFDD3JV
 ML with Python		   	-- https://www.coursera.org/account/accomplishments/certificate/A9ED4YBA4KZK
 Database, SQL with Python 	-- https://www.coursera.org/account/accomplishments/certificate/B3WYQAS8D5EA
+Intro to Data Science		-- https://www.coursera.org/account/accomplishments/specialization/certificate/3H8QWYMWLPRW
+Data Visualization with Python	-- https://www.coursera.org/account/accomplishments/certificate/XBM9V3GWYYHZ
